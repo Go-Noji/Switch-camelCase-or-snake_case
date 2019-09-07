@@ -1,0 +1,23 @@
+{
+  "name": "go-noji.change_camel_case_or_snake_case",
+  "title": "Switch camelCase or snake_case",
+  "version": "0.0.1",
+  "description": "Switch between snake case and camel case for selected area or entire text.",
+  "homepage": "https://github.com/Go-Noji/Switch-camelCase-or-snake_case",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "engines": {
+    "brackets": ">=1.8.0"
+  },
+  "author": "Go Noji <gisosyadfe@gmail.com> (http://noji.wpblog.jp/)",
+  "license": "MIT",
+  "devDependencies": {},
+  "i18n": [ "en", "ja"],
+  "package-i18n": {
+    "ja": {
+      "description": "選択範囲、もしくは文章全体のスネークケースとキャメルケースを切り替えます。"
+    }
+  }
+}
